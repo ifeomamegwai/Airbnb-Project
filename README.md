@@ -1,4 +1,4 @@
-# Airbnb-Project
+# Airbnb-Project with Looker Studio
 ![image](https://github.com/user-attachments/assets/b5ae2375-dcf1-44d4-ab77-4f14de421ac4)
 
 <a href="https://lookerstudio.google.com/reporting/8a20dac5-7a6c-4bd1-a6a9-d9a30d359578" target="_blank">Link to live project</a>
